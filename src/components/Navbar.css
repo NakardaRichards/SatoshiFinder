@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid cyan; 
+    padding: 10px; 
+    font-family: 'Inter';
+  }
+  
+.icon {
+    font-size: 2rem;
+    color: cyan;
+}
+
